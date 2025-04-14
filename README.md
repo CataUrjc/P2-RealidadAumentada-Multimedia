@@ -1,2 +1,2 @@
-# Pr-ctica-2---Multimedia
+# Práctica-2---Multimedia
 Creación de Contenido Aumentado
