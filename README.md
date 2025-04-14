@@ -1,2 +1,2 @@
-# Práctica-2---Multimedia
-Creación de Contenido Aumentado
+# PRÁCTICA 2 EVALUABLE - GRUPAL - Creación de Contenido Aumentado
+
